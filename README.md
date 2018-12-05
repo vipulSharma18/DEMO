@@ -4,3 +4,5 @@ this doesn't seem to behave like a standard markdown file.
 ##heading and some more text
 please work as a markdown not as a text
 changes for difftool
+changes before branching
+on update branch now
