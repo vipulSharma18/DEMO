@@ -5,4 +5,4 @@ this doesn't seem to behave like a standard markdown file.
 please work as a markdown not as a text
 changes for difftool
 changes before branching
-on update branch now
+changing text when in master branch to create conflict with very bad branch.
